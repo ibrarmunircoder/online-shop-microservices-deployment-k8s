@@ -30,11 +30,11 @@ Online Boutique is composed of 11 microservices written in different languages t
 
 As a DevOps Engineer, when you are given a task to deploy the microservices application on Kubernetes Cluster, You need to communicate with developers to understand the key information redarding microservices like:
 
-1- Which microservices are being deployed?
-2- Which microservices are connected with others?
-3- What dependencies does each microservice have (e.g., databases or third-party services such as message brokers)?
-4- Which microservice is accessible from outside the cluster?
-5- On Which Port does each microservice run?
+1- Which microservices are being deployed? \\n
+2- Which microservices are connected with others? \\n
+3- What dependencies does each microservice have (e.g., databases or third-party services such as message brokers)? \\n
+4- Which microservice is accessible from outside the cluster? \\n
+5- On Which Port does each microservice run? \\n
 
 You don’t need to understand the internal code of each service—only how they interact and operate.
 
