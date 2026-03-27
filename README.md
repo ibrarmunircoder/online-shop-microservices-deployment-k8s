@@ -6,7 +6,7 @@ Deploy an online-shop microservices application on a Kubernetes cluster using Ku
 
 ### 📌 Project Overview:
 
-Online Boutique is a cloud-first microservices demo application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.
+Online Boutique is a cloud-first microservices demo application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them. </br>
 This project demonstrates how to deploy and run a microservices-based application on Kubernetes using production and security best practices.
 
 ---
