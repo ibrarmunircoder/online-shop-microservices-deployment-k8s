@@ -15,6 +15,7 @@ This project demonstrates how to deploy and run a microservices-based applicatio
 
 ![Home Page](./screenshots/home-page.png)
 ![Product Page](./screenshots/product-page.png)
+![K8s Resources](./screenshots/k8s-resources.png)
 
 ---
 
