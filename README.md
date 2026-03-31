@@ -11,14 +11,6 @@ This project demonstrates how to deploy and run a microservices-based applicatio
 
 ---
 
-### 🌐 Live Demo:
-
-![Home Page](./screenshots/home-page.png)
-![Product Page](./screenshots/product-page.png)
-![K8s Resources](./screenshots/k8s-resources.png)
-
----
-
 ### 🏗️ Architecture:
 
 Online Boutique is composed of 11 microservices written in different languages that talk to each other over gRPC.
@@ -29,10 +21,10 @@ Online Boutique is composed of 11 microservices written in different languages t
 
 ### 🚀 Deployment Process:
 
-As a DevOps Engineer, when you are given a task to deploy the microservices application on Kubernetes Cluster, You need to communicate with developers to understand the key information redarding microservices like:
+As a DevOps Engineer, when you are given a task to deploy the microservices application on a Kubernetes Cluster, you need to communicate with developers to understand the key information regarding microservices, like:
 
 1- Which microservices are being deployed? </br>
-2- Which microservices are connected with others? </br>
+2- Which microservices are connected to others? </br>
 3- What dependencies does each microservice have (e.g., databases or third-party services such as message brokers)? </br>
 4- Which microservice is accessible from outside the cluster? </br>
 5- On Which Port does each microservice run? </br>
@@ -94,6 +86,13 @@ You don’t need to understand the internal code of each service—only how they
 - Learn how to organize and manage Kubernetes manifests using Kustomize overlays and bases.
 
 ---
+
+### 🌐 Live Demo:
+
+![Home Page](./screenshots/home-page.png)
+![Product Page](./screenshots/product-page.png)
+![K8s Resources](./screenshots/k8s-resources.png)
+
 
 ### 👨‍💻 Connect with me:
 
