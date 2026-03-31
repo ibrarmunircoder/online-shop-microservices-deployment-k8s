@@ -93,6 +93,7 @@ You don’t need to understand the internal code of each service—only how they
 ![Product Page](./screenshots/product-page.png)
 ![K8s Resources](./screenshots/k8s-resources.png)
 
+---
 
 ### 👨‍💻 Connect with me:
 
